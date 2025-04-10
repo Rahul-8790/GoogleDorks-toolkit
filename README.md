@@ -1,6 +1,6 @@
 # GoogleDorks Toolkit
 
-![GoogleDorks Toolkit](https://raw.githubusercontent.com/Rahul-8790/GoogleDorks-toolkit/refs/heads/main/image.png?token=GHSAT0AAAAAADB5WHSVYXQRNPIHMLJGWROAZ7XPWPA)
+![GoogleDorks Toolkit](https://github.com/Rahul-8790/GoogleDorks-toolkit/blob/031b1fa796158751d777bccf7611486284346cd7/GoogleDorks-toolkit-main/GoogleDorks-toolkit-main/image.png)
 
 GoogleDorks Toolkit is a Python script designed to help security researchers and penetration testers automate Google dorking for finding potential vulnerabilities and information about a target domain. The tool utilizes Google search queries, also known as Google hacks, to identify possible security issues and gather valuable information.
 
