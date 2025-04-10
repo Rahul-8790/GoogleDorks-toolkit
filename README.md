@@ -38,7 +38,13 @@ cd google-dorks-toolkit
 ```
 pkg update; pkg upgrade
 git clone https://github.com/Rahul-8790/GoogleDorks-toolkit.git
-cd google-dorks-toolkit
+cd GoogleDorks-toolkit
+cd GoogleDorks-toolkit-main
+ls
+chmod +x setup.sh
+./setup.sh
+python GoogleDorks-toolkit.py
+
 ```
 
 
