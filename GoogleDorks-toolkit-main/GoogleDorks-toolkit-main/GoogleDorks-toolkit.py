@@ -31,7 +31,7 @@ def print_dotted_text_with_developers(text, developers):
     print(border)
 
 text_to_display = "Seiyun University - seiyunu.edu.ye"
-developers_list = ["Rahul Limbad"]
+developers_list = ["Rahul Limbad"                      ]
 print_dotted_text_with_developers(text_to_display, developers_list)
 print('\033[0;37m \033[0m')
 # Create an argument parser
